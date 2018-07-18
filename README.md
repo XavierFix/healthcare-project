@@ -68,6 +68,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [StandardHealthRecord](http://standardhealthrecord.org/) - Open specification for health record format, aiming to be more precise than existing formats.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 2b672a3 (Formatting and clarity)
 =======
   * [Continuity of Care Document](https://corepointhealth.com/resource-center/hl7-resources/ccd) - Continuity of Care Document Overview.
@@ -76,6 +77,12 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 >>>>>>> c7f9060 (Clean up of titles)
   * [Continuity of Care Record](https://corepointhealth.com/resource-center/white-papers/understanding-continuity-care-record) - Understanding the Continuity of Care Record.
 >>>>>>> d25d271 (Formatting)
+=======
+  * [Continuity of Care Document](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - Continuity of Care Document specifications (free account required).
+  * [Continuity of Care Record](http://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
+  * [HL7 Version 2](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).
+  * [OMOP](https://www.ohdsi.org/data-standardization/the-common-data-model/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases 
+>>>>>>> dc74c4b (updates to specifcations)
 
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
