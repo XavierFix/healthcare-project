@@ -87,8 +87,13 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 >>>>>>> dc74c4b (updates to specifcations)
 =======
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/the-common-data-model/) - Standardized data model for many healthcare concepts, awesome Github presence including scripts for many major relational databases 
+<<<<<<< HEAD
 >>>>>>> 080dbf1 (Improve ctrl+f for OHDSI)
 
+=======
+  * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - The Standard Health Record (SHR) provides a high quality, computable source of patient information by establishing a single target for health data standardization.
+  
+>>>>>>> 3b1e85b (Update README.md)
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
 
