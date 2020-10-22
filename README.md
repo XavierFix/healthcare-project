@@ -100,6 +100,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 =======
   * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - The Standard Health Record (SHR) provides a high quality, computable source of patient information by establishing a single target for health data standardization.
+  * [DICOM Standards Browser](https://dicom.innolitics.com/) - The Innolitics DICOM Standards Browser provides an effective way to learn the DICOM standard and inspect DICOM attributes.
   
 >>>>>>> 3b1e85b (Update README.md)
 ### Prescribing
